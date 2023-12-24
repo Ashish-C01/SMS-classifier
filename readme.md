@@ -1,4 +1,4 @@
-# SMS Classifier
+# SMS Classifier [Application](https://huggingface.co/spaces/ashish-001/sms-spam-classifier)
 This model will classify the message as spam or not spam.
 
 
